@@ -1251,7 +1251,7 @@
  
   comment.     2 cross sections modified by free gas thermal treatment.                    
 
- source distribution written to file test14.s        cycle=     0
+ source distribution written to file test14.s        cycle =     0
 
          3 warning messages so far.
 1estimated keff results by cycle                                                                        print table 175
@@ -2151,7 +2151,7 @@
  rem life(abs)   5.1609E+00     5.2017E+00 0.0017     life(col/abs/tl)  5.2030E+00 0.0017   5.1936E+00 0.0018
  source points generated   3070                source_entropy  6.0926E+00
 
- source distribution written to file test14.s        cycle=   150
+ source distribution written to file test14.s        cycle =   150
 1problem summary (active cycles only)              source particle weight for summary table normalization =       270000.00
 
       run terminated when     150 kcode cycles were done.

@@ -61,7 +61,7 @@
 
   total     1253468
 
- source distribution written to file test08.s        cycle=     0
+ source distribution written to file test08.s        cycle =     0
 1estimated keff results by cycle                                                                        print table 175
 
  cycle     1    k(collision)  0.833140    prompt removal lifetime(abs)  2.7532E+00    source points generated    824
@@ -489,7 +489,7 @@
  rem life(abs)   2.8017E+00     2.7439E+00 0.0033     life(col/abs/tl)  2.7454E+00 0.0033   2.7511E+00 0.0044
  source points generated    997                source_entropy  4.0250E+00
 
- source distribution written to file test08.s        cycle=    60
+ source distribution written to file test08.s        cycle =    60
 1problem summary (active cycles only)              source particle weight for summary table normalization =        50000.00
 
       run terminated when      60 kcode cycles were done.

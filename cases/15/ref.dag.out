@@ -681,7 +681,7 @@
  rem life(abs)   1.7469E+03     1.7425E+03 0.0018     life(col/abs/tl)  1.7421E+03 0.0019   1.7431E+03 0.0018
  source points generated   9790                source_entropy  6.3350E+00
 
- source distribution written to file test15.s        cycle=    90
+ source distribution written to file test15.s        cycle =    90
 1problem summary (active cycles only)              source particle weight for summary table normalization =       600000.00
 
       run terminated when      90 kcode cycles were done.
