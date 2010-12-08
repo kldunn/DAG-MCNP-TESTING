@@ -1,0 +1,20 @@
+README: DAG-MCNP 5.1.40 Test Suite
+
+--- What's going on in this directory ---
+The main dag-mcnp test suite is kept in a parallel directory
+under the projects primary 5.1.51 trunk: 
+
+<this_directory>/../../../5.1.51/trunk/Test-dagmc
+
+This directory is a duplicate of the structure of the 5.1.51 
+testing directory, and most of the files here are symlinks to the 
+corresponding files in that directory.  In a few key cases
+(chiefly ref.dag.out files), files specific to the 5.1.40 
+branch are kept here.  This allows the greatest possible duplication
+between the two versions of the test suite, saving us from
+the need to keep multiple copies of large input meshes.
+
+In order for this test suite to work correctly, it must exist
+within a complete checkout of the DAG-MCNP repository.  The 
+../../../5.1.51/trunk/Test-dagmc directory must exist for the 
+test suite in this directory to function.
